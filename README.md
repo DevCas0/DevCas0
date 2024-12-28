@@ -28,7 +28,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevCas0&show_icons=true&theme=radical)
 
 ## 📫 Contato
-- **E-mail:** [devcas0@example.com](mailto:devcas0@example.com)
+- **E-mail:** [guilhermmehncaso@outlook.com](mailto:guilhermmehncaso@outlook.com)
 - **LinkedIn:** [Guilherme Henrique](https://www.linkedin.com/in/guilhermme-henrique-7a55b2215)
 
 ---
