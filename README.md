@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o DevCas0! 👋
 
-<!--
-**DevCas0/DevCas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com previsão de término em 2025.
+- 💻 Experiência prévia com **sistemas embarcados**, **microcontroladores** e **hardware**.
+- 🌱 Atualmente focado no desenvolvimento de software e expandindo habilidades em projetos full-stack.
+- 🎯 Objetivo: combinar experiência em hardware e software para criar soluções completas e inovadoras.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, C++, Python
+- **Áreas de Experiência:** Sistemas embarcados, microcontroladores e integração hardware/software
+- **Ferramentas:** Git, VS Code, Arduino IDE, plataformas IoT
+- **Estudando atualmente:** Desenvolvimento web e arquitetura de sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projetos em Destaque
+- [**Sistema Embarcado de Controle**](https://github.com/DevCas0/sistema-embarcado-controle)  
+  Projeto desenvolvido em C++ para controle de dispositivos utilizando microcontroladores.
+- [**Gerenciador de Tarefas**](https://github.com/DevCas0/gerenciador-de-tarefas)  
+  Sistema para organização de tarefas diárias, criado com Python e Flask.
+- [**Calculadora de Gastos**](https://github.com/DevCas0/calculadora-de-gastos)  
+  Aplicação em JavaScript para gerenciamento financeiro pessoal.
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevCas0&show_icons=true&theme=radical)
+
+## 📫 Contato
+- **E-mail:** [devcas0@example.com](mailto:devcas0@example.com)
+- **LinkedIn:** [Guilherme Henrique](https://www.linkedin.com/in/guilhermme-henrique-7a55b2215)
+
+---
+
+*Obrigado por visitar meu perfil! Vamos construir algo incrível juntos!*
