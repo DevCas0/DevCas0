@@ -7,7 +7,11 @@
 - 🎯 Objetivo: combinar experiência em hardware e software para criar soluções completas e inovadoras.
 
 ## 🚀 Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, C++, Python
+- **Linguagens:** 
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - **Áreas de Experiência:** Sistemas embarcados, microcontroladores e integração hardware/software
 - **Ferramentas:** Git, VS Code, Arduino IDE, plataformas IoT
 - **Estudando atualmente:** Desenvolvimento web e arquitetura de sistemas
