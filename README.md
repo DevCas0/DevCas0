@@ -1,7 +1,7 @@
 # Olá, eu sou o DevCas0! 👋
 
 ## Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com previsão de término em 2025.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com previsão de término em 2026.
 - 💻 Experiência prévia com **sistemas embarcados**, **microcontroladores** e **hardware**.
 - 🌱 Atualmente focado no desenvolvimento de software e expandindo habilidades em projetos full-stack.
 - 🎯 Objetivo: combinar experiência em hardware e software para criar soluções completas e inovadoras.
