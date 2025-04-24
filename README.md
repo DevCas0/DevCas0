@@ -29,7 +29,7 @@
 
 ## 📫 Contato
 - **E-mail:** [guilhermmehncaso@outlook.com](mailto:guilhermmehncaso@outlook.com)
-- **LinkedIn:** [Guilherme Henrique](https://www.linkedin.com/in/guilhermme-henrique-7a55b2215)
+- **LinkedIn:** [Guilherme Henrique](https://www.linkedin.com/in/guilhermme-henrique-nicolini-caso-7a55b2215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
